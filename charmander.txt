@@ -1,2 +1,4 @@
 Scratch
 Growl
+Ember
+Rage
